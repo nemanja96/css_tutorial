@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Poppins", sans-serif;
+}
+
+#all-css-properties {
+  max-width: 1920px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin: 0 auto;
+}
+
+h1 {
+  text-align: center;
+  margin: 30px;
+}
+
+#radio-btns {
+  width: 300px;
+  margin: 30px auto;
+
+  label {
+    padding-right: 5px;
+  }
+}
+
+#playground {
+  margin: 0 auto;
+  padding: 20px;
+  width: 300px;
+  height: 100px;
+  color: #000;
+  background: #f2cc8f;
+  border-radius: 20px;
+  overflow: visible;
+}

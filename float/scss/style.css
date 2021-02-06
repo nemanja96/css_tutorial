@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Poppins", sans-serif;
+}
+
+h1 {
+  text-align: center;
+  margin: 30px;
+}
+
+#radio-btns {
+  width: 186px;
+  margin: 30px auto;
+}
+
+#radio-btns label {
+  padding-right: 5px;
+}
+
+#playground {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 20px;
+  color: #000;
+  background: #f2cc8f;
+  border-radius: 20px;
+}
+
+#playground img {
+  width: 100px;
+}
+/*# sourceMappingURL=style.css.map */
